@@ -1,6 +1,6 @@
 ---
 title: Tema 1.1
-description: .
+description: La importancia de la información.
 ---
 ## 1.1 La importancia de la información.
 
@@ -55,22 +55,22 @@ La informática es una disciplina que se ocupa del estudio, diseño, desarrollo,
 ## Referencias Bibliográficas
 
 1.1 La importancia de la información.
-1. Laudon, Kenneth C., y Laudon, Jane P. (2020). "Sistemas de Información Gerencial". Pearson Educación.
-2. Turban, E., Pollard, C., y Wood, G. (2018). "Sistemas de Información Gerencial: Administración de la Empresa Digital". Pearson Educación.
-3. Stair, R. M., y Reynolds, G. W. (2018). "Principios de sistemas de información: una perspectiva gerencial". Cengage Learning.
-4. O'Brien, J. A., y Marakas, G. M. (2018). "Administración de sistemas de información". McGraw-Hill Education.
-5. Ramírez, M., y Carreón, G. (2017). "Fundamentos de sistemas de información". Pearson Educación.
+- Laudon, Kenneth C., y Laudon, Jane P. (2020). "Sistemas de Información Gerencial". Pearson Educación.
+- Turban, E., Pollard, C., y Wood, G. (2018). "Sistemas de Información Gerencial: Administración de la Empresa Digital". Pearson Educación.
+- Stair, R. M., y Reynolds, G. W. (2018). "Principios de sistemas de información: una perspectiva gerencial". Cengage Learning.
+- O'Brien, J. A., y Marakas, G. M. (2018). "Administración de sistemas de información". McGraw-Hill Education.
+- Ramírez, M., y Carreón, G. (2017). "Fundamentos de sistemas de información". Pearson Educación.
 
 1.1.A La importancia de la información en la vida cotidiana del hombre
-6. Moore, David, y Shenk, David. (2011). "Cómo piensa tu cerebro". Océano Ambar.
-7. Davenport, Thomas H., y Prusak, Laurence. (1998). "Working Knowledge: How Organizations Manage What They Know". Harvard Business Press.
+- Moore, David, y Shenk, David. (2011). "Cómo piensa tu cerebro". Océano Ambar.
+- Davenport, Thomas H., y Prusak, Laurence. (1998). "Working Knowledge: How Organizations Manage What They Know". Harvard Business Press.
 
 1.1.B La importancia de la información dentro de las organizaciones empresariales
-8. Drucker, Peter F. (2007). "La gestión en la sociedad actual". Sudamericana.
-9. Porter, Michael E., y Millar, Victor E. (1985). "How Information Gives You Competitive Advantage". Harvard Business Review.
+- Drucker, Peter F. (2007). "La gestión en la sociedad actual". Sudamericana.
+- Porter, Michael E., y Millar, Victor E. (1985). "How Information Gives You Competitive Advantage". Harvard Business Review.
 
 1.1.C ¿Qué es la informática?
-10. Tanenbaum, Andrew S., y Woodhull, Albert S. (2014). "Sistemas operativos modernos". Pearson Educación.
-11. Brookshear, J. Glenn. (2018). "Ciencia informática: una visión amplia". Pearson Educación.
-12. Forouzan, Behrouz A., y Mosharraf, Firouz. (2017). "Fundamentos de Ciencia de la Computación: Fundamentos de Informática y Tecnología de la Información". Cengage Learning.
-13. Russell, Stuart J., y Norvig, Peter. (2016). "Inteligencia artificial: un enfoque moderno". Pearson Educación.
+- Tanenbaum, Andrew S., y Woodhull, Albert S. (2014). "Sistemas operativos modernos". Pearson Educación.
+- Brookshear, J. Glenn. (2018). "Ciencia informática: una visión amplia". Pearson Educación.
+- Forouzan, Behrouz A., y Mosharraf, Firouz. (2017). "Fundamentos de Ciencia de la Computación: Fundamentos de Informática y Tecnología de la Información". Cengage Learning.
+- Russell, Stuart J., y Norvig, Peter. (2016). "Inteligencia artificial: un enfoque moderno". Pearson Educación.
