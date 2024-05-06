@@ -2,6 +2,7 @@
 title: Resumen
 description: .
 ---
+Adjunto encontrarás [el archivo de la planificación completa para la asignatura de Organización de Centros de Cómputo.](https://manualcc.eloychavez.dev/Planeacion_OCC.pdf)
 
 | Semana | Tema, Subtemas y sub subtemas | Competencia por tema | Actividades Docente | Avtividades Independientes |
 |----------|----------|----------|----------|----------|
