@@ -74,3 +74,7 @@ La informática es una disciplina que se ocupa del estudio, diseño, desarrollo,
 - Brookshear, J. Glenn. (2018). "Ciencia informática: una visión amplia". Pearson Educación.
 - Forouzan, Behrouz A., y Mosharraf, Firouz. (2017). "Fundamentos de Ciencia de la Computación: Fundamentos de Informática y Tecnología de la Información". Cengage Learning.
 - Russell, Stuart J., y Norvig, Peter. (2016). "Inteligencia artificial: un enfoque moderno". Pearson Educación.
+
+## Presentación Clase 1
+
+<a href="https://manualcc.eloychavez.dev/Clase1.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>

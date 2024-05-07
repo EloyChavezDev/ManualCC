@@ -121,3 +121,7 @@ La administración de centros de cómputo requiere una correlación efectiva del
 
 **1.2.B El proceso administrativo según Agustín Reyes Ponce.**
 - Autor: K. H. Spencer Pickett, Título: "IT Governance: An International Guide to Data Security and ISO27001/ISO27002", Editorial: Kogan Page, Año de publicación: 2019
+
+## Presentación Clase 2
+
+<a href="https://manualcc.eloychavez.dev/Clase2.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>
