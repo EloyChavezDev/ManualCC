@@ -24,9 +24,9 @@ export default defineConfig({
 				{
 					label: 'Manual',
 					items:[
-						{label: 'Introduccion', link: '/Manual/Resumen' },
+						{label: 'Indice', link: '/Manual/Resumen' },
 						{
-						label: 'introducción a la orgranización de centros de computó', 
+						label: 'introducción', 
 						collapsed: true,
 						autogenerate: { directory: 'Manual/introduccion-a_la_orgranizacion_de_centros_de_computo'},
 						},
