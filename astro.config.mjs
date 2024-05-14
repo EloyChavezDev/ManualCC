@@ -24,7 +24,12 @@ export default defineConfig({
 				{
 					label: 'Manual',
 					items:[
-						{label: 'Introduccion', link: '/Manual/Resumen/' },
+						{label: 'Introduccion', link: '/Manual/Resumen' },
+						{
+						label: 'Equipamiento de Hardware', 
+						collapsed: true,
+						autogenerate: { directory: 'Manual/Equipamiento_de_Hardware'},
+						},
 					]
 				},
 			],
