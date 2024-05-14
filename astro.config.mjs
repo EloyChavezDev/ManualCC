@@ -26,6 +26,11 @@ export default defineConfig({
 					items:[
 						{label: 'Introduccion', link: '/Manual/Resumen' },
 						{
+						label: 'introducción a la orgranización de centros de computó', 
+						collapsed: true,
+						autogenerate: { directory: 'Manual/introduccion-a_la_orgranizacion_de_centros_de_computo'},
+						},
+						{
 						label: 'Equipamiento de Hardware', 
 						collapsed: true,
 						autogenerate: { directory: 'Manual/Equipamiento_de_Hardware'},
