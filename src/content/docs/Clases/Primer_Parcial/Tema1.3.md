@@ -64,4 +64,4 @@ El contenido del manual de organización debe ser exhaustivo y proporcionar info
 
 ## Presentación Clase 3
 
-<a href="https://manualcc.eloychavez.dev/Clase2.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>
+<a href="https://manualcc.eloychavez.dev/Clase3.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>
