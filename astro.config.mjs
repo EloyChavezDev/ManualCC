@@ -28,7 +28,7 @@ export default defineConfig({
 						{
 						label: 'introducción', 
 						collapsed: true,
-						autogenerate: { directory: 'Manual/01_ntroduccion-a_la_orgranizacion_de_centros_de_computo'},
+						autogenerate: { directory: 'Manual/01_Introduccion-a_la_orgranizacion_de_centros_de_computo'},
 						},
 						{
 						label: 'Infraestructura física', 
@@ -36,25 +36,26 @@ export default defineConfig({
 						autogenerate: { directory: 'Manual/02_Infraestructura_física'},
 						},
 						{
+						label: 'Equipamiento de Hardware', 
+						collapsed: true,
+						autogenerate: { directory: 'Manual/03_Equipamiento_de_Hardware'},
+						},
+						{
 						label: 'Software y S.O.', 
 						collapsed: true,
-						autogenerate: { directory: 'Manual/03_Software_y_Sistemas_Operativos'},
+						autogenerate: { directory: 'Manual/04_Software_y_Sistemas_Operativos'},
 						},
 						{
 						label: 'Seguridad Informática', 
 						collapsed: true,
-						autogenerate: { directory: 'Manual/04_Seguridad_Informatica'},
+						autogenerate: { directory: 'Manual/05_Seguridad_Informatica'},
 						},
 						{
 						label: 'Gestión de Recursos Humanos', 
 						collapsed: true,
-						autogenerate: { directory: 'Manual/05_Gestion_de_Recursos_Humanos'},
+						autogenerate: { directory: 'Manual/06_Gestion_de_Recursos_Humanos'},
 						},
-						{
-						label: 'Equipamiento de Hardware', 
-						collapsed: true,
-						autogenerate: { directory: 'Manual/06_Equipamiento_de_Hardware'},
-						},
+						
 					]
 				},
 			],
