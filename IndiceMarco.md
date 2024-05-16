@@ -23,12 +23,18 @@ description: Manual de Organización de Centros de Cómputo
    - Selección y licenciamiento de software.
    - Instalación y configuración de sistemas operativos.
 
-### 5. **Seguridad Informática**
+### 5. **Mantenimiento del centro de computo**
+   - Tipo de mantenimiento de computadoras 
+   - Mantenimiento preventivo y  Correctivo
+   - Mantenimiento Adaptivo
+   - Mantenimiento Evolutivo
+
+### 6. **Seguridad Informática**
    - Políticas de seguridad: acceso físico y lógico.
    - Protección contra malware y ataques cibernéticos.
    - Copias de seguridad y recuperación de desastres.
 
-### 6. **Gestión de Recursos Humanos**
+### 7. **Gestión de Recursos Humanos**
    - Perfiles y roles del personal de un centro de cómputo.
    - Formación y capacitación del equipo.
    - Gestión del conocimiento y documentación.
