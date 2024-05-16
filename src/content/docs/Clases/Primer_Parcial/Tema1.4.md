@@ -48,11 +48,11 @@ La presentación de un organigrama es importante para su comprensión y utilidad
 
 - **Diagramas circulares:** En este tipo de organigrama, los niveles jerárquicos se muestran en círculos concéntricos, con la posición más alta en el centro y los niveles inferiores alrededor de ella.
 
-![Organigrama circular](https://manualcc.eloychavez.dev/1.png "Organigrama circular")
+![Organigrama circular](https://manualcc.eloychavez.dev/8.png "Organigrama circular")
 
 - **Diagramas de bloques:** Estos organigramas utilizan bloques rectangulares o cuadrados para representar los diferentes niveles jerárquicos y funciones. Son fáciles de leer y pueden contener más información que otros tipos de organigramas.
 
-![Organigrama de bloques](https://manualcc.eloychavez.dev/1.png "Organigrama de bloques")
+![Organigrama de bloques](https://manualcc.eloychavez.dev/9.png "Organigrama de bloques")
 
 ## Referencias Bibliográficas
 
