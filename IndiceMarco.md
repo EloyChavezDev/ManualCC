@@ -34,7 +34,14 @@ description: Manual de Organización de Centros de Cómputo
    - Protección contra malware y ataques cibernéticos.
    - Copias de seguridad y recuperación de desastres.
 
-### 7. **Gestión de Recursos Humanos**
+### 7. **Reglamento y Sanciones**
+   - Cuidado de los equipos 
+   - Articulos del reglamento
+   - Obligaciones de los alumnos    
+
+### 8. **Gestión de Recursos Humanos**
    - Perfiles y roles del personal de un centro de cómputo.
    - Formación y capacitación del equipo.
    - Gestión del conocimiento y documentación.
+
+   
