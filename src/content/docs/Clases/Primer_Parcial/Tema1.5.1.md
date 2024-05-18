@@ -6,7 +6,7 @@ description: Preguntas
 
 ### 1.3 El manual de organización
 
-- ¿Por qué es importante la claridad y precisión en el manual de organización de un centro de cómputo?
+**¿Por qué es importante la claridad y precisión en el manual de organización de un centro de cómputo?**
 
 a) Para que sea accesible para los clientes
 
@@ -16,7 +16,7 @@ c) Para cumplir con las regulaciones gubernamentales
 
 d) Para aumentar las ganancias del centro de cómputo
 
-- ¿Por qué debe actualizarse constantemente el manual de organización de un centro de cómputo?
+**¿Por qué debe actualizarse constantemente el manual de organización de un centro de cómputo?**
 
 a) Para reflejar los cambios en la dirección de la empresa
 
@@ -26,7 +26,7 @@ c) Para reflejar los cambios tecnológicos y de procesos
 
 d) Para mantener una buena relación con los proveedores
 
-- ¿Qué aspecto del manual de organización asegura que las políticas y procedimientos contribuyan a los objetivos estratégicos de la empresa?
+**¿Qué aspecto del manual de organización asegura que las políticas y procedimientos contribuyan a los objetivos estratégicos de la empresa?**
 
 a) Claridad y precisión
 
@@ -36,7 +36,7 @@ c) Consistencia con los objetivos de la organización
 
 d) Cumplimiento normativo
 
-- ¿Qué implica la flexibilidad en un manual de organización?
+**¿Qué implica la flexibilidad en un manual de organización?**
 
 a) Permitir a los empleados tomar decisiones dentro de los límites establecidos
 
@@ -49,7 +49,7 @@ d) Implementar cualquier cambio sin necesidad de aprobación
 
 ### 1.3.A Conformación
 
-- ¿Qué debe detallar un organigrama en el manual de organización de un centro de cómputo?
+**¿Qué debe detallar un organigrama en el manual de organización de un centro de cómputo?**
 
 a) La estructura jerárquica y las relaciones entre departamentos y unidades funcionales
 
@@ -59,7 +59,7 @@ c) Los horarios de trabajo del personal
 
 d) Las metas y objetivos de la empresa
 
-- ¿Qué es una matriz de responsabilidades y por qué es útil en un centro de cómputo?
+**¿Qué es una matriz de responsabilidades y por qué es útil en un centro de cómputo?**
 
 a) Una tabla de horarios para el personal
 
@@ -69,7 +69,7 @@ c) Especifica las responsabilidades de cada puesto para evitar lagunas y duplici
 
 d) Un gráfico de los niveles de autoridad
 
-- ¿Por qué es importante describir los flujos de comunicación en un centro de cómputo?
+**¿Por qué es importante describir los flujos de comunicación en un centro de cómputo?**
 
 a) Para facilitar la comunicación efectiva entre equipos y niveles jerárquicos
 
@@ -79,7 +79,7 @@ c) Para cumplir con los estándares de la industria
 
 d) Para medir la eficiencia del personal
 
-- ¿Qué deben incluir los procedimientos de gestión de cambios en un centro de cómputo?
+**¿Qué deben incluir los procedimientos de gestión de cambios en un centro de cómputo?**
 
 a) Políticas de contratación
 
@@ -91,7 +91,7 @@ d) Horarios de trabajo
 
 ### 1.3.B Contenido
 
-- ¿Qué tipo de políticas deben incluirse en el manual de organización además de las generales?
+**¿Qué tipo de políticas deben incluirse en el manual de organización además de las generales?**
 
 a) Políticas de viajes
 
@@ -101,7 +101,7 @@ c) Políticas de contratación
 
 d) Políticas de compensación
 
-- ¿Qué deben cubrir los procedimientos operativos estándar (SOP) en un centro de cómputo?
+**¿Qué deben cubrir los procedimientos operativos estándar (SOP) en un centro de cómputo?**
 
 a) Los beneficios de los empleados
 
@@ -111,7 +111,7 @@ c) Las estrategias de marketing
 
 d) Las políticas de viaje
 
-- ¿Qué información deben proporcionar los diagramas de red y arquitectura de sistemas en el manual?
+**¿Qué información deben proporcionar los diagramas de red y arquitectura de sistemas en el manual?**
 
 a) Los horarios del personal
 
@@ -121,7 +121,7 @@ c) Las políticas de vacaciones
 
 d) Las metas de la empresa
 
-- ¿Qué deben detallar los procedimientos de gestión de incidentes y problemas?
+**¿Qué deben detallar los procedimientos de gestión de incidentes y problemas?**
 a) La estructura jerárquica de la empresa
 
 b) Cómo reportar, investigar y resolver incidentes técnicos, incluyendo tiempos de respuesta y protocolos de escalado
@@ -132,7 +132,7 @@ d) Los horarios de trabajo
 
 ### 1.4 Organigramas en la gestión de centros de cómputo
 
-- ¿Qué tipo de estructura muestra una única línea de autoridad que fluye de arriba hacia abajo?
+**¿Qué tipo de estructura muestra una única línea de autoridad que fluye de arriba hacia abajo?**
 
 a) Matricial
 
@@ -142,7 +142,7 @@ c) Funcional
 
 d) Combinado
 
-- ¿Cuál es la característica principal de un organigrama matricial?
+**¿Cuál es la característica principal de un organigrama matricial?**
 
 a) Muestra una estructura jerárquica simple
 
@@ -152,7 +152,7 @@ c) Agrupa empleados según funciones o áreas de especialización
 
 d) Se extiende horizontalmente
 
-- ¿Qué tipo de organigrama agrupa a los empleados según las funciones o áreas de especialización?
+**¿Qué tipo de organigrama agrupa a los empleados según las funciones o áreas de especialización?**
 
 a) Lineal o jerárquica
 
@@ -162,7 +162,7 @@ c) Funcional
 
 d) Combinado
 
-- ¿Cuál es una ventaja de los organigramas horizontales?
+**¿Cuál es una ventaja de los organigramas horizontales?**
 
 a) Mostrar la estructura jerárquica de manera simple
 
@@ -174,7 +174,7 @@ d) Mostrar una estructura jerárquica piramidal
 
 ### 1.5 Funciones de un agente y funciones de un gerente de un centro de cómputo
 
-- ¿Cuál es una de las responsabilidades jerárquicas de un agente en un centro de cómputo?
+**¿Cuál es una de las responsabilidades jerárquicas de un agente en un centro de cómputo?**
 
 a) Definición de la estrategia general del centro de cómputo
 
@@ -184,7 +184,7 @@ c) Gestión de recursos humanos y financieros
 
 d) Representación del centro ante la alta dirección
 
-- ¿Cuál es una responsabilidad de decisión técnica de un gerente en un centro de cómputo?
+**¿Cuál es una responsabilidad de decisión técnica de un gerente en un centro de cómputo?**
 
 a) Diagnóstico y solución de problemas técnicos
 
@@ -194,7 +194,7 @@ c) Definición de la arquitectura tecnológica del centro de cómputo
 
 d) Coordinación con proveedores para adquisición de equipos
 
-- ¿Qué tarea de planificación y control es específica de un agente?
+**¿Qué tarea de planificación y control es específica de un agente?**
 
 a) Elaboración del plan estratégico del centro de cómputo
 
@@ -204,7 +204,7 @@ c) Gestión de inventarios de equipos y repuestos
 
 d) Evaluación del desempeño del centro
 
-- ¿Cuál es una tarea de asesoramiento que realiza un gerente en un centro de cómputo?
+**¿Cuál es una tarea de asesoramiento que realiza un gerente en un centro de cómputo?**
 
 a) Asesoramiento técnico a usuarios internos
 
