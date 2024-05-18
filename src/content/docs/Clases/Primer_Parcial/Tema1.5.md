@@ -98,7 +98,7 @@ El asesoramiento en un centro de cómputo es crucial para garantizar la toma de 
 - Apoyo en la definición de estándares y normativas internas relacionadas con el uso de tecnología.
 - Colaboración con equipos de otras áreas para integrar soluciones tecnológicas en procesos organizacionales.
 
-## 1.5.E Tareas de ejecución
+### 1.5.E Tareas de ejecución
 
 La ejecución efectiva de proyectos y actividades es esencial para el funcionamiento óptimo del centro de cómputo.
 
@@ -114,7 +114,7 @@ La ejecución efectiva de proyectos y actividades es esencial para el funcionami
 - Seguimiento de la ejecución de políticas y procedimientos establecidos.
 - Participación activa en la ejecución de planes de contingencia y respuesta a incidentes.
 
-## 1.5.F Tareas especiales
+### 1.5.F Tareas especiales
 Estas tareas abordan situaciones o proyectos específicos que requieren atención especial por parte del personal del centro de cómputo.
 
 **Agente:**
@@ -129,7 +129,7 @@ Estas tareas abordan situaciones o proyectos específicos que requieren atenció
 - Coordinación de auditorías internas y externas de seguridad y cumplimiento.
 - Participación en comités o grupos de trabajo relacionados con la innovación tecnológica y la transformación digital.
 
-## 1.5.G Otras tareas
+### 1.5.G Otras tareas
 Estas son tareas complementarias que pueden surgir en el día a día del centro de cómputo y que son igualmente importantes para su funcionamiento.
 
 **Agente:**
@@ -157,4 +157,4 @@ Estas son tareas complementarias que pueden surgir en el día a día del centro 
 
 ## Presentación Clase 5 y 6
 
-<a href="https://manualcc.eloychavez.dev/Clase4.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>
+<a href="https://manualcc.eloychavez.dev/Clase5y6.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>
