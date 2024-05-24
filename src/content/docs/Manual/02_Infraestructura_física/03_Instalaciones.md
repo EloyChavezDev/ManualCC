@@ -39,5 +39,7 @@ Los reactores deben estar fuera, ya que generan campos magnéticos, o en su caso
 En el área de computadoras debe mantenerse un promedio mínimo de 450 lúmenes midiendo a unos 70 cm del suelo.
 Debe evitarse la luz directa para poder observar adecuadamente la pantalla
 
-![Diagrama1 , Diagrama2](https://manualcc.eloychavez.dev/Diagrama1.jpg)
+Ejemplo 1
+![Diagrama1 , Diagrama2](https://manualcc.eloychavez.dev/Diagrama1.jpg)}
+Ejemplo 2
 ![Diagrama1 , Diagrama2](https://manualcc.eloychavez.dev/Diagrama2.jpg)
