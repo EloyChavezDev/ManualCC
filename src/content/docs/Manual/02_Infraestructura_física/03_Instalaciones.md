@@ -40,6 +40,7 @@ En el área de computadoras debe mantenerse un promedio mínimo de 450 lúmenes 
 Debe evitarse la luz directa para poder observar adecuadamente la pantalla
 
 Ejemplo 1
-![Diagrama1 , Diagrama2](https://manualcc.eloychavez.dev/Diagrama1.jpg)}
+![Diagrama1 , Diagrama2](https://manualcc.eloychavez.dev/Diagrama1.jpg)
+
 Ejemplo 2
 ![Diagrama1 , Diagrama2](https://manualcc.eloychavez.dev/Diagrama2.jpg)
