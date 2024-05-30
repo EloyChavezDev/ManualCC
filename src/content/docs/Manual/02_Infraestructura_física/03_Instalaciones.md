@@ -9,9 +9,6 @@ Uno de los aspectos más importantes que deben evaluarse al momento de diseñar 
 Aunque la oficina tenga un servicio de energía regular es importante proteger el equipo electrónico por fluctuaciones de poder, altibajos o picos que pueden ocasionar daños al equipo.
 Verificar todos los equipos conectados a él y dejarle un nivel de holgura mayor que al de una computadora normal. Por lo general se necesita conocer el tiempo de duración a carga completa o media carga del UPS y que se disponga del tiempo suficiente para apagar los servicios de este (en caso de que no haya planta eléctrica), o que tenga el suficiente tiempo para: cuando la planta eléctrica se active sin sufrir ningún tipo de riesgo.
 
-## MiniSplint de línea
-sirven para eliminar las variaciones de voltaje y el ruido eléctrico en grados variantes pero no almacenan energía eléctrica, lo que significa que no pueden contrarrestar interrupciones en el suministro de electricidad. Ejemplo de esto son los reguladores de voltaje, los cuales suministran voltaje estable a los equipos.
-
 ## Aires acondicionados
 Se debe proveer un sistema de aire acondicionado, que se dedique exclusivamente al centro de procesamiento de datos. Teniendo en cuenta que los aparatos de aire acondicionado son causa potencial de incendios e inundaciones.
 * La temperatura de un centro de procesamiento de datos debe estar comprendida entre 81 y 21 grados centígrados
