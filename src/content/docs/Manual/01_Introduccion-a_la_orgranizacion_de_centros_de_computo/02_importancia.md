@@ -19,4 +19,4 @@ Los centros de computo son fundamentales en la era digital por diversas razones,
 
 7. Cumplimiento de normativas: Ayudan  a las organizaciones a cumplir con las normativas relacionadas con la gestión  y protección de datos.
 
-8. Sostenibilidad: Muchos centros de cómputo modernos están diseñados con tecnologías de eficiencia energética, lo que contribuye a la sostenibilidad y a la reducción de la huella de carbono de las organizaciones 
+8. Sostenibilidad: Muchos centros de cómputo modernos están diseñados con tecnologías de eficiencia energética, lo que contribuye a la sostenibilidad y a la reducción de la huella de carbono de las organizaciones.

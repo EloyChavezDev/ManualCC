@@ -15,6 +15,6 @@ El principal objetivo de un centro de cómputo es el de concentrar el procesamie
 
  Contar con un procedimiento que permita controlar, registrar y verificar los servicios que brinda elCentro de Cómputo Universitario, ofreciendo servicios oportunos y eficientes cumpliendo con losrequisitos de nuestros usuarios, en atención a los lineamientos establecidos en la normatividadinstitucional y reglamentación vigente en la materia. 
 
- Garantizar a los usuarios el acceso a instalaciones y equipos adecuados que aporten al proceso de aprendizaje y fortalezcan en su formación Académica. Contar con un buen funcionamiento de los equipos de cómputo (hardware) que facilite la contribución en la formación educativa de los usuarios. Obtener el grado de satisfacción de los usuarios entre los niveles de bueno y excelente al solicitars ervicios de Centro de Cómputo. 
+ Garantizar a los usuarios el acceso a instalaciones y equipos adecuados que aporten al proceso de aprendizaje y fortalezcan en su formación Académica. Contar con un buen funcionamiento de los equipos de cómputo (hardware) que facilite la contribución en la formación educativa de los usuarios. Obtener el grado de satisfacción de los usuarios entre los niveles de bueno y excelente al solicitars ervicios de Centro de Cómputo.
 
  
