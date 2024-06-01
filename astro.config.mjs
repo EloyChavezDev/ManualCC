@@ -18,7 +18,7 @@ export default defineConfig({
 							label: 'Primer Parcial',
 							collapsed: true,
 							autogenerate: { directory: 'Clases/Primer_Parcial' },
-						}
+						},
 						{
 							label: 'Segundo Parcial',
 							collapsed: true,
