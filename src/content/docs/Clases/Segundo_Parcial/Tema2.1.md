@@ -50,6 +50,6 @@ Una vez decidido qué procesos mecanizar, se debe realizar un estudio exhaustivo
 
 5. Turban, Efraim, y Volonino, Linda. (2012). “Information Technology for Management: Improving Performance in the Digital Economy”. Wiley.
 
-## Presentación Clase 5 y 6
+## Presentación Clase 9 y 10
 
-<a href="https://manualcc.eloychavez.dev/Clase5y6.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>
+<a href="https://manualcc.eloychavez.dev/Clase9y10.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>
