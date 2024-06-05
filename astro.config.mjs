@@ -63,7 +63,7 @@ export default defineConfig({
 						{
 						label: 'Reglamento y Sanciones', 
 						collapsed: true,
-						autogenerate: { directory: 'Manual/07_Reglamento_y_Saciones'},
+						autogenerate: { directory: 'Manual/07_Reglamento_y_Sanciones'},
 						},
 						{
 						label: 'Gestión de Recursos Humanos', 
