@@ -53,22 +53,22 @@ export default defineConfig({
 						{
 						label: 'Mantenimiento del CC', 
 						collapsed: true,
-						autogenerate: { directory: 'Manual/04_Software_y_Sistemas_Operativos'},
+						autogenerate: { directory: 'Manual/05_Mantenimiento_del_Centro_de_Computo'},
 						},
 						{
 						label: 'Seguridad Informática', 
 						collapsed: true,
-						autogenerate: { directory: 'Manual/05_Seguridad_Informatica'},
+						autogenerate: { directory: 'Manual/06_Seguridad_Informatica'},
 						},
 						{
 						label: 'Reglamento y Sanciones', 
 						collapsed: true,
-						autogenerate: { directory: 'Manual/04_Software_y_Sistemas_Operativos'},
+						autogenerate: { directory: 'Manual/07_Reglamento_y_Saciones'},
 						},
 						{
 						label: 'Gestión de Recursos Humanos', 
 						collapsed: true,
-						autogenerate: { directory: 'Manual/06_Gestion_de_Recursos_Humanos'},
+						autogenerate: { directory: 'Manual/08_Gestion_de_Recursos_Humanos'},
 						},
 						
 					]
