@@ -18,17 +18,17 @@ Requisitos mínimos para la instalación de Windows 10
 Antes de empezar con la instalación de Windows 10 en tu PC, debes comprobar si la máquina cumple con los requisitos mínimos de compatibilidad y especificaciones para ello. Tanto si compras un nuevo portátil en el que no se encuentra instalado el sistema operativo, porque viene a parte, como si tienes un antiguo ordenador con una versión anterior a Windows 10, deberás actualizar o instalar el S.O si quieres disfrutar de todas las características y beneficios del nuevo sistema.
 Con cada actualización, se abordan y corrigen errores del sistema anterior, por lo que es muy recomendable. A continuación, puedes ver los requisitos mínimos que necesita un ordenador para ejecutar Windows 10 y los requisitos del sistema recomendados para usar Windows 10 de manera eficiente.
 Por suerte para los usuarios de un portátil con un Windows anterior al 10, los requisitos mínimos de Windows 10 son los mismos que los de Windows 8 o Windows 8.1. Estos son:
-•	Procesador: Al menos 2GHz
-•	RAM: 1GB para 32-bit y 2GB para 64-bit OS
-•	Disco duro: 16GB para 32-bit y 20GB para 64-bit OS
-•	Tarjeta gráfica: DirectX 9 con controlador WDDM
+- Procesador: Al menos 2GHz
+- RAM: 1GB para 32-bit y 2GB para 64-bit OS
+- Disco duro: 16GB para 32-bit y 20GB para 64-bit OS
+- Tarjeta gráfica: DirectX 9 con controlador WDDM
 Si el hardware de tu ordenador cumple estos requisitos, puedes instalar y ejecutar Windows 10 sin ningún problema.
 
 Requisitos de sistema recomendados para Windows 10 en detalle
-•	Velocidad del procesador La velocidad del procesador determina la rapidez con la que el equipo procesa la información. Windows 10 requiere que la velocidad del procesador sea de al menos 1 GHz. Aunque el requisito de procesador es bajo, se recomienda mantener un procesador con una clasificación más alta. Si juegas a juegos o usas aplicaciones y software que requieren mucha CPU, como programas de diseño en 3D, es mejor una velocidad de procesador de 2 GHz o superior.
-•	RAM Para un sistema operativo de 32 bits, el equipo debe tener al menos 1 GB de RAM. Para el sistema operativo de 64 bits, se requieren al menos 2 GB. Los valores más altos de RAM hacen que el ordenador funcione mejor. Más RAM también significa que el equipo podrá ejecutar cómodamente varias aplicaciones. Para los juegos y otras aplicaciones que consumen memoria, se necesita más RAM.
-•	Espacio en el disco duro Para la versión de 32 bits de Windows 10, se requieren al menos 16 GB de espacio en el disco duro y para la versión de 64 bits de Windows 10, el equipo debe tener al menos 20 GB de espacio en el disco duro. Si guardas muchos archivos grandes como películas, canciones, juegos, etc., el ordenador debe tener un espacio de disco duro más grande.
-•	Tarjeta gráfica Cualquier dispositivo gráfico Microsoft DirectX 9 con controlador WDDM es necesario para ejecutar Windows 10. Algunos juegos y programas pueden requerir DirectX 10 o superior para un rendimiento óptimo.
+- Velocidad del procesador La velocidad del procesador determina la rapidez con la que el equipo procesa la información. Windows 10 requiere que la velocidad del procesador sea de al menos 1 GHz. Aunque el requisito de procesador es bajo, se recomienda mantener un procesador con una clasificación más alta. Si juegas a juegos o usas aplicaciones y software que requieren mucha CPU, como programas de diseño en 3D, es mejor una velocidad de procesador de 2 GHz o superior.
+- RAM Para un sistema operativo de 32 bits, el equipo debe tener al menos 1 GB de RAM. Para el sistema operativo de 64 bits, se requieren al menos 2 GB. Los valores más altos de RAM hacen que el ordenador funcione mejor. Más RAM también significa que el equipo podrá ejecutar cómodamente varias aplicaciones. Para los juegos y otras aplicaciones que consumen memoria, se necesita más RAM.
+- Espacio en el disco duro Para la versión de 32 bits de Windows 10, se requieren al menos 16 GB de espacio en el disco duro y para la versión de 64 bits de Windows 10, el equipo debe tener al menos 20 GB de espacio en el disco duro. Si guardas muchos archivos grandes como películas, canciones, juegos, etc., el ordenador debe tener un espacio de disco duro más grande.
+- Tarjeta gráfica Cualquier dispositivo gráfico Microsoft DirectX 9 con controlador WDDM es necesario para ejecutar Windows 10. Algunos juegos y programas pueden requerir DirectX 10 o superior para un rendimiento óptimo.
 Requisitos adicionales
 1.	Necesitarás una conexión a Internet y una resolución de pantalla de 1024 x 768 si quieres acceder a la tienda de Windows para descargar y ejecutar aplicaciones. Para reproducir DVDs, se requiere un software de reproducción independiente.
 2.	Si quieres instalar Windows 10 de 64 bits en un PC de 64 bits, tu procesador debe ser compatible con CMPXCHG16b, PrefetchW y LAHF/SAHF.
@@ -41,8 +41,8 @@ Instalar Windows 10 desde cero paso a paso
 6.	Consulta el manual del pc o la página de soporte en línea para confirmar la tecla del BIOS de tu máquina.
 7.	Navega a la pestaña de arranque. Usarás las teclas de flecha para seleccionarla.
 8.	En la pestaña de arranque puede que se indique Opciones de arranque, según el fabricante del equipo. Selecciona un dispositivo desde el que arrancar. Aquí encontrarás un par de opciones:
-•	Para una unidad flash USB, selecciona la opción Dispositivos extraíbles.
-•	Para una instalación de disco, selecciona la opción Unidad de CD-ROM.
+- Para una unidad flash USB, selecciona la opción Dispositivos extraíbles.
+- Para una instalación de disco, selecciona la opción Unidad de CD-ROM.
 9.	Presiona la tecla + hasta que tu opción de arranque sea la primera. Una vez que los Dispositivos extraíbles o la Unidad de CD-ROM estén en la parte superior de la lista, el equipo seleccionará esta opción como su opción de arranque predeterminada.
 10.	En algunos equipos, en cambio, presionará una de las teclas de función (por ejemplo, F5) para navegar una opción hasta la parte superior del menú. La tecla aparecerá en la parte derecha de la pantalla.
 11.	Guarda tu configuración. Deberías ver una indicación de la tecla (por ejemplo, F10) en la parte inferior de la pantalla que se correlaciona con "Guardar y Salir"; al presionarla deberías guardar tus configuraciones y reiniciar tu ordenador.
