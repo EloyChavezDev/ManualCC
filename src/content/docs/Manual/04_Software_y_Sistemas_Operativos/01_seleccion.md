@@ -3,6 +3,8 @@ title: Selección y licenciamiento de software.
 description: Manual de Organización de Centros de Cómputo
 ---
 
+![software](https://manualcc.eloychavez.dev/software.jpg)
+
 La selección y licenciamiento de software y sistemas operativos es un aspecto crucial en el desarrollo y funcionamiento de cualquier sistema informático. Es importante considerar las necesidades específicas del proyecto, así como las restricciones legales y financieras.
 En cuanto a los sistemas operativos, existen opciones como Windows, macOS y varias distribuciones de Linux, cada una con sus propias características y requisitos de licenciamiento.
 En cuanto al software, hay muchas opciones disponibles, desde software propietario con licencias comerciales hasta software de código abierto con licencias más flexibles.
@@ -19,4 +21,3 @@ Algunos de los softwares son:
 - Solid Works: SolidWorks es un software CAD para modelado mecánico en 2D y 3D, desarrollado en la actualidad por SolidWorks Corp., una filial de Dassault Systèmes, para el sistema operativo Microsoft Windows. Su primera versión fue lanzada al mercado en 1995 con el propósito de hacer la tecnología CAD más accesible. Su precio es de 350€.
 - Deep freeze: Deep Freeze es un software que se clasifica como de tipo "reinicie y restaure" desarrollado por la compañía canadiense Faronics en 1996. El costo depende de cuanta licencia obtiene.
 
-![software](https://manualcc.eloychavez.dev/software.jpg)
