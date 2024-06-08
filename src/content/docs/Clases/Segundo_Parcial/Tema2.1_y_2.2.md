@@ -1,6 +1,6 @@
 ---
-title: Tema 2.1
-description: Origen de la función
+title: Tema 2.1 y 2.2
+description: Origen de la función y Planeación e instalación de un centro de cómputo
 ---
 ## 2.1 Origen de la función
 
