@@ -86,4 +86,4 @@ El personal es uno de los recursos más críticos, ya que su conocimiento y habi
 
 ## Presentación Clase 11 y 12
 
-<a href="https://manualcc.eloychavez.dev/Clase9y10.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>
+<a href="https://manualcc.eloychavez.dev/Clase11y12.pdf" target="_blank">Click aquí para verla en una nueva pestaña</a>
