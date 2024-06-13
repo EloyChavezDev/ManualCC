@@ -2,7 +2,7 @@
 title: Instalaciones eléctricas y de refrigeración
 description: Manual de Organización de Centros de Cómputo
 ---
-### Instalación Eléctrica de un Centro de Computo
+## Instalación Eléctrica de un Centro de Computo
 Uno de los aspectos más importantes que deben evaluarse al momento de diseñar un centro de procesamiento de datos es el suministro eléctrico, ya que si no se efectúa un buen cálculo sobre la carga que se va a utilizar, esto podría ser causa de serios problemas al utilizar el equipo. Es imprescindible hacer un análisis con todos los equipos y dispositivos que se vayan a utilizar como si fuesen a trabajar todos al mismo tiempo, así podremos obtener la carga máxima que se pudiera llegar a utilizar.
 
 ## Sistemas de Flujo o Suministro Continúo (UPS)
