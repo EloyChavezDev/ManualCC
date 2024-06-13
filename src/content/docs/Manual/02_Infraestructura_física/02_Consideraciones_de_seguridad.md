@@ -3,6 +3,8 @@ title: Consideraciones de seguridad
 description: Manual de Organización de Centros de Cómputo
 ---
 
+![politicasdeseguridad](https://manualcc.eloychavez.dev/politicasdeseguridad.png)
+
 ### Políticas de seguridad y prevención de riesgos
 
 Las políticas de seguridad y prevención de riesgos de la infraestructura física son fundamentales para garantizar la protección de las personas, los activos y las operaciones. Algunas de las políticas y prácticas comunes incluyen:
@@ -19,7 +21,6 @@ Las políticas de seguridad y prevención de riesgos de la infraestructura físi
 
 6. Mantenimiento Preventivo: Realizar mantenimiento preventivo regular en equipos y sistemas críticos para evitar fallas o accidentes.
 
-![politicasdeseguridad](https://manualcc.eloychavez.dev/politicasdeseguridad.png)
 
 
 ### Reglamento de la sala de computo
