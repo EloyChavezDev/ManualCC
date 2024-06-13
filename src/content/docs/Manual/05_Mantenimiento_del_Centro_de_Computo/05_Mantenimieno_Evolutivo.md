@@ -2,7 +2,8 @@
 title: Mantenimiento Evolutivo
 description: Manual de Organización de Centros de Cómputo
 ---
-El mantenimiento evolutivo es aquel que consigue que los sistemas de un negocio o centros de computo estén a la vanguardia tecnológica, permitiendo así que cumplan adecuadamente sus funciones. El mantenimiento evolutivo está muy relacionado con otros tres conceptos: el preventivo, destinado a la conservación de equipos. El mantenimiento evolutivo es una estrategia esencial en el ámbito de la ingeniería de software. 
+## Definicion
+El mantenimiento evolutivo es aquel que consigue que los sistemas de un negocio o centros de computo estén a la vanguardia tecnológica, permitiendo así que cumplan adecuadamente sus funciones. El mantenimiento evolutivo es una estrategia esencial en el ámbito de la ingeniería de software. 
 
 A continuación, se presena algunas de sus características clave:
 
