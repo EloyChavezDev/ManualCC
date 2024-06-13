@@ -38,7 +38,8 @@ Capacitación del Personal:
 ## Mantenimiento Correctivo
 El mantenimiento correctivo consiste en las actuaciones del servicio técnico en respuesta a avisos sobre el mal funcionamiento de algún equipo, activo o proceso. Comprende un grupo de tareas de índole técnica cuyo propósito es corregir los fallos que sobrevienen en el funcionamiento de la maquinaria. Estas actuaciones pueden llegar a ser solicitadas de forma inesperada y no forman parte de un plan de mantenimiento programado. 
 En otras palabras, el mantenimiento correctivo se activa cuando ocurren incidencias o averías que requieren intervención para restablecer el funcionamiento normal.
-A continuación algunos pasos a seguir para un mantenimiento correctivo:}
+
+A continuación algunos pasos a seguir para un mantenimiento correctivo:
 
 Evaluación de la Situación y Diagnóstico:
 -	Antes de emprender cualquier acción, es crucial realizar una evaluación minuciosa de la situación.
