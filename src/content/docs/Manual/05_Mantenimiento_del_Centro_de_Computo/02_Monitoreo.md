@@ -5,7 +5,7 @@ description: Manual de Organización de Centros de Cómputo
 ## Monitoreo de Equipos
 El monitoreo de desempeño en las computadoras es una práctica esencial para evaluar y supervisar el rendimiento de los sistemas informáticos.
 El monitoreo de desempeño se refiere al seguimiento constante y en tiempo real de diversos aspectos de una computadora o sistema o Los elementos monitoreados pueden incluir la CPU, la memoria RAM, los discos duros, la conexión de red y otros componentes.
-https://www.dotcom-monitor.com/wiki/es/base-de-conocimiento/
+
 Algunas de sus importancias de monitoreo son las siguientes:
 - 	Optimización: Permite identificar cuellos de botella y áreas de mejora en el sistema.
 - Detección de Problemas: Facilita la detección temprana de problemas, como alta carga de CPU o falta de memoria.
