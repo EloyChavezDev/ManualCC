@@ -15,7 +15,7 @@ Se debe proveer un sistema de aire acondicionado, que se dedique exclusivamente 
 * La humedad relativa del aire debe estar comprendida entre el 45% y el 65%.
 
 ## El suministro eléctrico
-a un centro de procesamiento de datos, y en particular la alimentación de los equipos, debe hacerse con unas condiciones especiales, como la utilización de una línea independiente del resto de la instalación para evitar interferencias, con elementos de protección y seguridad específicos y en muchos casos con sistemas de alimentación ininterrumpida (equipos electrógenos, instalación de baterías, etc.).
+para un centro de computo, y en particular la alimentación de los equipos, debe hacerse con unas condiciones especiales, como la utilización de una línea independiente del resto de la instalación para evitar interferencias, con elementos de protección y seguridad específicos y en muchos casos con sistemas de alimentación ininterrumpida (equipos electrógenos, instalación de baterías, etc.).
 
 En los sitios donde la información es altamente sensitiva se debe tomar en cuenta también el riesgo producido por las emanaciones electromagnéticas o acústicas del hardware, ya que éstas pueden ser interceptadas con relativa facilidad en una distancia menor a los 300 metros y ni que hablar de las redes inalámbricas .
 
