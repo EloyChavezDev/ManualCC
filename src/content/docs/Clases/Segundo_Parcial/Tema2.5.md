@@ -1,6 +1,6 @@
 ---
-title: Tema 2.4 y 2.5
-description: Instalaciones físicas de un centro de cómputo.
+title: Tema 2.5
+description: Nuevas tecnologías.
 ---
 ## 2.5 Nuevas tecnologías
 

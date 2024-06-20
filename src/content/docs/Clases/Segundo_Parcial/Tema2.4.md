@@ -1,5 +1,5 @@
 ---
-title: Tema 2.4 y 2.5
+title: Tema 2.4
 description: Instalaciones físicas de un centro de cómputo.
 ---
 ## 2.4 Instalaciones físicas de un centro de cómputo
