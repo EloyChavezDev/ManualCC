@@ -13,16 +13,16 @@ description: Preguntas
 ## Preguntas de opción múltiple:
 
 1. ¿Cuál es el primer paso en la planeación de un centro de cómputo?
-a) Decisión de mecanizar
-b) Estudio de los equipos existentes en el mercado
-c) Evaluación de la carga de trabajo
-d) Conocimiento de la estructura de un organismo
+a. Decisión de mecanizar
+b. Estudio de los equipos existentes en el mercado
+c. Evaluación de la carga de trabajo
+d. Conocimiento de la estructura de un organismo
 
 2. ¿Cuál de los siguientes no es considerado un equipo de almacenamiento en un centro de cómputo?
-a) Discos duros
-b) Unidades de estado sólido (SSD)
-c) Routers
-d) Sistemas de almacenamiento en red (NAS/SAN)
+a. Discos duros
+b. Unidades de estado sólido (SSD)
+c. Routers
+d. Sistemas de almacenamiento en red (NAS/SAN)
 
 3. ¿Cuál de los siguientes aspectos NO es una ventaja del uso de un piso falso en un centro de cómputo?
 a) Distribución ordenada y segura del cableado.
@@ -48,11 +48,14 @@ d) Escalabilidad mejorada mediante la distribución de datos en varios servidore
 Empareja cada etapa de la planeación e instalación de un centro de cómputo con su descripción correspondiente:
 
 1. 
-a) Conocimiento de la estructura de un organismo
-b) Decisión de mecanizar
-c) Estudio de los equipos existentes en el mercado
+a. Conocimiento de la estructura de un organismo
+b. Decisión de mecanizar
+c. Estudio de los equipos existentes en el mercado
+
 ( ) Implica entender la estructura organizacional, identificar necesidades y evaluar la carga de trabajo.
+
 ( ) Incluye la evaluación de procesos manuales, análisis de costos y beneficios, y la priorización de procesos para automatizar.
+
 ( ) Consiste en investigar tecnologías disponibles, evaluar proveedores, y planificar la adquisición de equipos.
 
 2.
