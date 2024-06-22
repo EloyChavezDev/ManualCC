@@ -13,9 +13,13 @@ description: Preguntas
 ## Preguntas de opción múltiple:
 
 1. ¿Cuál es el primer paso en la planeación de un centro de cómputo?
+
 a. Decisión de mecanizar
+
 b. Estudio de los equipos existentes en el mercado
+
 c. Evaluación de la carga de trabajo
+
 d. Conocimiento de la estructura de un organismo
 
 2. ¿Cuál de los siguientes no es considerado un equipo de almacenamiento en un centro de cómputo?
@@ -49,7 +53,9 @@ Empareja cada etapa de la planeación e instalación de un centro de cómputo co
 
 1. 
 a. Conocimiento de la estructura de un organismo
+
 b. Decisión de mecanizar
+
 c. Estudio de los equipos existentes en el mercado
 
 ( ) Implica entender la estructura organizacional, identificar necesidades y evaluar la carga de trabajo.
