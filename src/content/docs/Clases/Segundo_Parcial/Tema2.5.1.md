@@ -14,30 +14,43 @@ description: Preguntas
 
 1. ¿Cuál es el primer paso en la planeación de un centro de cómputo?
 
-a. Decisión de mecanizar
+a) Decisión de mecanizar
 
-b. Estudio de los equipos existentes en el mercado
+b) Estudio de los equipos existentes en el mercado
 
-c. Evaluación de la carga de trabajo
+c) Evaluación de la carga de trabajo
 
-d. Conocimiento de la estructura de un organismo
+d) Conocimiento de la estructura de un organismo
 
 2. ¿Cuál de los siguientes no es considerado un equipo de almacenamiento en un centro de cómputo?
-a. Discos duros
-b. Unidades de estado sólido (SSD)
-c. Routers
-d. Sistemas de almacenamiento en red (NAS/SAN)
+
+a) Discos duros
+
+b) Unidades de estado sólido (SSD)
+
+c) Routers
+
+d) Sistemas de almacenamiento en red (NAS/SAN)
 
 3. ¿Cuál de los siguientes aspectos NO es una ventaja del uso de un piso falso en un centro de cómputo?
+
 a) Distribución ordenada y segura del cableado.
+
 b) Facilita la circulación del aire frío para el enfriamiento de los equipos.
+
 c) Permite el acceso fácil para la instalación y mantenimiento del cableado.
+
 d) Incrementa el costo de la instalación de equipos.
 
+
 4. ¿Cuál de las siguientes opciones es una ventaja de las bases de datos en memoria?
+
 a) Mayor capacidad de almacenamiento en discos duros.
+
 b) Acceso y procesamiento de datos extremadamente rápidos.
+
 c) Facilidad para manejar datos no estructurados.
+
 d) Escalabilidad mejorada mediante la distribución de datos en varios servidores.
 
 ## Preguntas de verdadero/falso:
@@ -49,14 +62,13 @@ d) Escalabilidad mejorada mediante la distribución de datos en varios servidore
 
 ## Preguntas de correspondencia:
 
-Empareja cada etapa de la planeación e instalación de un centro de cómputo con su descripción correspondiente:
+1. Empareja cada etapa de la planeación e instalación de un centro de cómputo con su descripción correspondiente:
 
-1. 
-a. Conocimiento de la estructura de un organismo
+a) Conocimiento de la estructura de un organismo
 
-b. Decisión de mecanizar
+b) Decisión de mecanizar
 
-c. Estudio de los equipos existentes en el mercado
+c) Estudio de los equipos existentes en el mercado
 
 ( ) Implica entender la estructura organizacional, identificar necesidades y evaluar la carga de trabajo.
 
@@ -64,34 +76,56 @@ c. Estudio de los equipos existentes en el mercado
 
 ( ) Consiste en investigar tecnologías disponibles, evaluar proveedores, y planificar la adquisición de equipos.
 
-2.
-Empareja cada categoría de elementos de un centro de cómputo con su descripción correspondiente:
+2. Empareja cada categoría de elementos de un centro de cómputo con su descripción correspondiente:
+
 a) Administrativos
+
 b) Físicos
+
 c) Comunicaciones
+
 d) Personal
+
 ( ) Incluyen políticas, procedimientos, gestión de recursos, registros y auditorías.
+
 ( ) Se refieren a la infraestructura y el entorno, como el espacio físico, condiciones ambientales y sistemas de seguridad.
+
 ( ) Enfocados en la conectividad e intercambio de información, como redes de área local (LAN) y proveedores de servicios de Internet (ISP).
+
 ( ) Personal encargado de operar y mantener el centro de cómputo, como administradores de sistemas, ingenieros de redes y gerentes de TI.
 
-3.
-Empareja cada elemento de las instalaciones físicas de un centro de cómputo con su descripción correspondiente:
+3. Empareja cada elemento de las instalaciones físicas de un centro de cómputo con su descripción correspondiente:
+
 a) Aire acondicionado
+
 b) Protección contra incendio
+
 c) Instalación eléctrica
+
 d) Acerca del local
+
 ( ) Sistemas de enfriamiento redundantes y distribución uniforme del aire frío.
+
 ( ) Detectores de humo, sistemas de alarma temprana y extintores de gases inertes.
+
 ( ) Suministro ininterrumpido de energía (UPS) y generadores de respaldo.
+
 ( ) Diseño del espacio, seguridad y condiciones ambientales.
 
-4. 
+4. Empareja cada tipo de base de datos con su característica principal:
+
 a) Bases de datos relacionales
+
 b) Bases de datos NoSQL
+
 c) Bases de datos en memoria
+
 d) Bases de datos distribuidas
+
 ( ) Almacenan datos en la memoria RAM para un acceso rápido.
+
 ( ) Utilizan tablas para almacenar datos y relaciones entre ellos.
+
 ( ) Diseñadas para manejar grandes volúmenes de datos no estructurados.
+
 ( ) Reparten los datos entre varios servidores para mejorar la escalabilidad.
