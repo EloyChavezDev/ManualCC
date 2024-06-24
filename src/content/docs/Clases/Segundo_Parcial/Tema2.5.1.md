@@ -129,3 +129,16 @@ d) Bases de datos distribuidas
 ( ) Diseñadas para manejar grandes volúmenes de datos no estructurados.
 
 ( ) Reparten los datos entre varios servidores para mejorar la escalabilidad.
+
+## Caso de estudio:
+
+**Problema:**
+
+Una empresa de comercio electrónico, E-Commerce Solutions S.A., está experimentando un rápido crecimiento en sus operaciones. Sin embargo, la infraestructura tecnológica actual no puede soportar eficientemente el aumento en el volumen de transacciones y la necesidad de análisis de datos para la toma de decisiones estratégicas. La dirección de la empresa ha decidido modernizar su centro de cómputo para mejorar la eficiencia, la seguridad y la capacidad de gestión de datos.
+
+**Tareas a realizar:**
+- Seleccionar un nuevo local para el centro de cómputo.
+- Instalar las nuevas tecnologías necesarias para soportar el crecimiento de la empresa.
+- Implementar medidas de seguridad adecuadas para proteger los datos sensibles.
+- Optimizar la infraestructura de red y asegurar la redundancia.
+- Establecer sistemas de almacenamiento y análisis de datos eficientes.
