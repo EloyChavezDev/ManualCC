@@ -12,7 +12,7 @@ description: Preguntas
 
 ## Preguntas de opción múltiple:
 
-1. ¿Cuál es el primer paso en la planeación de un centro de cómputo?
+1. **¿Cuál es el primer paso en la planeación de un centro de cómputo?**
 
 a) Decisión de mecanizar
 
@@ -22,7 +22,7 @@ c) Evaluación de la carga de trabajo
 
 d) Conocimiento de la estructura de un organismo
 
-2. ¿Cuál de los siguientes no es considerado un equipo de almacenamiento en un centro de cómputo?
+2. **¿Cuál de los siguientes no es considerado un equipo de almacenamiento en un centro de cómputo?**
 
 a) Discos duros
 
@@ -32,7 +32,7 @@ c) Routers
 
 d) Sistemas de almacenamiento en red (NAS/SAN)
 
-3. ¿Cuál de los siguientes aspectos NO es una ventaja del uso de un piso falso en un centro de cómputo?
+3. **¿Cuál de los siguientes aspectos NO es una ventaja del uso de un piso falso en un centro de cómputo?**
 
 a) Distribución ordenada y segura del cableado.
 
@@ -43,7 +43,7 @@ c) Permite el acceso fácil para la instalación y mantenimiento del cableado.
 d) Incrementa el costo de la instalación de equipos.
 
 
-4. ¿Cuál de las siguientes opciones es una ventaja de las bases de datos en memoria?
+4. **¿Cuál de las siguientes opciones es una ventaja de las bases de datos en memoria?**
 
 a) Mayor capacidad de almacenamiento en discos duros.
 
@@ -62,7 +62,7 @@ d) Escalabilidad mejorada mediante la distribución de datos en varios servidore
 
 ## Preguntas de correspondencia:
 
-1. Empareja cada etapa de la planeación e instalación de un centro de cómputo con su descripción correspondiente:
+1. **Empareja cada etapa de la planeación e instalación de un centro de cómputo con su descripción correspondiente:**
 
 a) Conocimiento de la estructura de un organismo
 
@@ -76,7 +76,7 @@ c) Estudio de los equipos existentes en el mercado
 
 ( ) Consiste en investigar tecnologías disponibles, evaluar proveedores, y planificar la adquisición de equipos.
 
-2. Empareja cada categoría de elementos de un centro de cómputo con su descripción correspondiente:
+2. **Empareja cada categoría de elementos de un centro de cómputo con su descripción correspondiente:**
 
 a) Administrativos
 
@@ -94,7 +94,7 @@ d) Personal
 
 ( ) Personal encargado de operar y mantener el centro de cómputo, como administradores de sistemas, ingenieros de redes y gerentes de TI.
 
-3. Empareja cada elemento de las instalaciones físicas de un centro de cómputo con su descripción correspondiente:
+3. **Empareja cada elemento de las instalaciones físicas de un centro de cómputo con su descripción correspondiente:**
 
 a) Aire acondicionado
 
@@ -112,7 +112,7 @@ d) Acerca del local
 
 ( ) Diseño del espacio, seguridad y condiciones ambientales.
 
-4. Empareja cada tipo de base de datos con su característica principal:
+4. **Empareja cada tipo de base de datos con su característica principal:**
 
 a) Bases de datos relacionales
 
