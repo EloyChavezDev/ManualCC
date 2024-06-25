@@ -1,6 +1,6 @@
 ---
 title: Tema 4.0
-description: SEGURIDAD DE LA INFORMACIÓN
+description: La seguridad de la información es un aspecto crítico en la gestión de centros de cómputo, ya que protege los datos contra accesos no autorizados, divulgaciones, alteraciones y destrucción.
 ---
 ## 4. SEGURIDAD DE LA INFORMACIÓN
 
@@ -10,7 +10,7 @@ La seguridad de la información es un aspecto crítico en la gestión de centros
 
 Los riesgos de la información pueden originarse tanto de fuentes externas como internas a la organización. Es crucial identificar estos riesgos para implementar medidas de mitigación adecuadas.
 
-#### 4.1.A Externos a la organización
+### 4.1.A Externos a la organización
 
 Los riesgos externos son amenazas que provienen de fuera de la organización y que pueden afectar la seguridad de la información. Estos incluyen:
 
@@ -30,7 +30,7 @@ Los riesgos externos son amenazas que provienen de fuera de la organización y q
    - **Riesgos asociados con la cadena de suministro**: Dependencia de proveedores externos que pueden tener brechas de seguridad.
    - **Servicios en la nube**: Riesgos de seguridad relacionados con la externalización de servicios y almacenamiento de datos en la nube.
 
-#### 4.1.B Internos a la organización
+### 4.1.B Internos a la organización
 
 Los riesgos internos son amenazas que provienen desde dentro de la organización. Estos incluyen:
 

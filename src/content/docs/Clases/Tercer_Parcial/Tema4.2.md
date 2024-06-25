@@ -1,6 +1,6 @@
 ---
-title: Tema 4.0
-description: SEGURIDAD DE LA INFORMACIÓN
+title: Tema 4.2
+description: La auditoría es una herramienta fundamental para evaluar la efectividad y eficiencia de los sistemas de información y las operaciones de TI dentro de una organización.
 ---
 ## 4.2 Auditoría
 

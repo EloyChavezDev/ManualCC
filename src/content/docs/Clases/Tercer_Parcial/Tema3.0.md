@@ -1,6 +1,6 @@
 ---
-title: Tema 2.6
-description: Comités
+title: Tema 3.0
+description: El control de proyectos es un proceso esencial para asegurar que los proyectos se completen a tiempo, dentro del presupuesto y con la calidad esperada
 ---
 ## 3. CONTROL DE PROYECTOS
 
@@ -10,7 +10,7 @@ El control de proyectos es un proceso esencial para asegurar que los proyectos s
 
 El control interno se refiere a los procedimientos y políticas implementados dentro de una organización para asegurar la eficiencia y eficacia operativa, la confiabilidad de la información financiera y el cumplimiento de leyes y regulaciones. En el contexto de proyectos, el control interno es fundamental para gestionar los riesgos y garantizar el éxito del proyecto.
 
-#### 3.1.A Objetivos del control interno
+### 3.1.A Objetivos del control interno
 
 Los principales objetivos del control interno en la gestión de proyectos incluyen:
 
@@ -20,7 +20,7 @@ Los principales objetivos del control interno en la gestión de proyectos incluy
 4. **Eficiencia operativa**: Mejorar la eficiencia y efectividad de las operaciones del proyecto mediante la identificación y corrección de ineficiencias.
 5. **Prevención y detección de fraudes**: Implementar medidas para prevenir y detectar cualquier tipo de fraude o malversación de recursos.
 
-#### 3.1.B Elementos del control interno
+### 3.1.B Elementos del control interno
 
 Para alcanzar los objetivos del control interno, es fundamental contar con ciertos elementos clave:
 
@@ -30,7 +30,7 @@ Para alcanzar los objetivos del control interno, es fundamental contar con ciert
 4. **Información y comunicación**: Los sistemas que permiten la captura y el intercambio de la información necesaria para llevar a cabo las responsabilidades de control interno.
 5. **Monitoreo**: Proceso de evaluación continua y periódica de la calidad del sistema de control interno a lo largo del tiempo, mediante actividades de supervisión y auditoría interna.
 
-#### 3.1.C Reglas del control
+### 3.1.C Reglas del control
 
 Para que el control interno sea efectivo, es importante seguir ciertas reglas:
 

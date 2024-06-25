@@ -1,6 +1,6 @@
 ---
 title: Tema 2.6
-description: Comités
+description: Los comités son grupos de trabajo formales establecidos dentro de una organización para tomar decisiones estratégicas y operativas.
 ---
 ## 2.6 Comités
 
