@@ -18,7 +18,7 @@ Los centros de cómputo, también conocidos como centros de datos o salas de ser
 - **Supervisión de Operación:** Monitorea el funcionamiento de los sistemas y la infraestructura.
 - **Operador de la Red:** Administra y mantiene la red de comunicaciones.
 - **Operador del Computador:** Se encarga de la operación y mantenimiento de los servidores y equipos.
-**Ingeniería y Seguridad de Instalaciones de Equipo:** Asegura la disponibilidad y seguridad de los recursos físicos.
+- **Ingeniería y Seguridad de Instalaciones de Equipo:** Asegura la disponibilidad y seguridad de los recursos físicos.
 
 ### **Gerencia de Desarrollo Técnico**:
 - **Desarrollo de Métodos de Trabajo, Auditoría Técnica y Seguimiento de Fallas y Problemas:** Evalúa y mejora los procesos técnicos.
