@@ -23,6 +23,11 @@ export default defineConfig({
 							label: 'Segundo Parcial',
 							collapsed: true,
 							autogenerate: { directory: 'Clases/Segundo_Parcial' },
+						},
+						{
+							label: 'Tercer Parcial',
+							collapsed: true,
+							autogenerate: { directory: 'Clases/Tercer_Parcial' },
 						}
 					]
 				},
