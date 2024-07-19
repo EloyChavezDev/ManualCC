@@ -15,7 +15,7 @@ Un sistema de control de acceso físico (PAC) permite a las organizaciones contr
 
 - **Salir del centro de datos:** para salir de la instalación del centro de datos, cada persona debe pasar por un punto de control de seguridad final y todos los visitantes deben entregar sus distintivos temporales. Después de la recopilación, todos los distintivos de visitante tienen sus niveles de acceso eliminados antes de que se reutilicen para futuras visitas.
 
-[acceso_fisico](https://manualcc.eloychavez.dev/acceso_fisico.jpg)
+[ACCESO FISICO] (https://manualcc.eloychavez.dev/acceso_fisico.jpg)
 
 
 ### Acceso Lógico
@@ -32,4 +32,4 @@ Contraseñas, PIN, tokens de seguridad (e incluso escaneos biométricos) son cre
 
 - **Control de acceso basado en atributos (ABAC):** En los modelos ABAC, el acceso se concede de manera flexible, a partir de una combinación de atributos y condiciones del entorno, como la hora y la ubicación. ABAC es el modelo de control de acceso más granular y ayuda a reducir el número de asignaciones de roles.
 
-[acceso_logico](https://manualcc.eloychavez.dev/acceso_logico.jpg)
+[ACCESO LOGICO] (https://manualcc.eloychavez.dev/acceso_logico.jpg)
