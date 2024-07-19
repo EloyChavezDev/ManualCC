@@ -85,6 +85,7 @@ Es probable que deba notificar a los clientes, en especial si el ataque ha afect
 Después del ataque, es importante realizar una investigación y determinar cómo cambiar sus sistemas y procedimientos para reducir al mínimo el riesgo de futuros ataques. Utilice el incidente para mejorar la seguridad cibernética de su empresa.
 
 [PROTECCION CONTRA UN ATAQUE] (https://manualcc.eloychavez.dev/proteccion.jpg)
+
 ### Prevencion de ataques cibernéticos
 
 **Cifrar y hacer copias de seguridad de los datos**
@@ -118,3 +119,5 @@ Asegúrese de que se implemente y se siga una directiva de contraseñas adecuada
 **Garantizar la protección de los endpoints**
 
 La seguridad de los endpoints es el proceso de proteger dispositivos como equipos de escritorio, portátiles, teléfonos móviles y tabletas contra amenazas malintencionadas y ciberataques. El software de seguridad para endpoints permite a las empresas proteger frente a amenazas cibernéticas los dispositivos que los empleados usan para trabajar, ya sea en una red o en la nube. Puede obtener más información sobre la seguridad y la protección de endpoints aquí.
+
+[PREVENCION DE ATAQUES] (https://manualcc.eloychavez.dev/prevencion.png)
