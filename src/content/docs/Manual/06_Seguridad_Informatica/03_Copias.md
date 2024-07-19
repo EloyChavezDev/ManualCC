@@ -13,13 +13,15 @@ Una pérdida de datos puede afectar significativamente a las operaciones de una 
 
 Un plan de copia de seguridad y recuperación permite proteger los datos más críticos y restaurarlos rápidamente en caso de desastre. Esto reduce los riesgos y permite a las organizaciones centrarse en sus principales operaciones de negocio.
 
+[COPIAS DE SEGURIDAD] (https://manualcc.eloychavez.dev/copias.jpg
+
 ### RECUPERACIÓN DE DESASTRES
 
 El plan de recuperación de desastres determina cómo realizar una copia de seguridad de sus datos. Las opciones incluyen almacenamiento en la nube, copias de seguridad respaldadas por proveedores y copias de seguridad de datos fuera de las instalaciones internas. Para servir de ayuda en caso de desastres naturales, las copias de seguridad no pueden encontrarse en las instalaciones. El equipo debe determinar quién realizará la copia de seguridad de los datos, que información se incluirá y cómo se implementará el sistema.
 
 Un objetivo de punto de recuperación (RPO) es la cantidad máxima de tiempo aceptable para la pérdida de datos después de que se produzca un desastre. Por ejemplo, si su RPO es de minutos u horas, tendrá que realizar una copia de seguridad de sus datos de manera constante a sitios réplica en lugar de realizar solamente una al final del día.
 
-[RECUPERACIÓN] 
+[RECUPERACIÓN DE DESASTRES] (https://manualcc.eloychavez.dev/recuperacion.webp
 
 **IMPORTANCIA DE LA COPIA Y RECUPERACIÓN DE DESASTRES**
 
@@ -41,3 +43,4 @@ Estas son algunas de las tecnologías y técnicas más comunes que se usan en la
 - **DR virtual:** Las soluciones de DR virtual te permiten crear una copia de seguridad de las operaciones y los datos, o incluso crear una réplica completa de tu infraestructura de TI y ejecutarla en máquinas virtuales (VM) fuera de las instalaciones. En caso de que ocurra un desastre, puedes volver a cargar la copia de seguridad y reanudar la operación con rapidez. Esta solución requiere transferencias frecuentes de datos y cargas de trabajo para ser efectivas.
 
 -  **Sitios de recuperación ante desastres:** son ubicaciones que las organizaciones pueden usar de forma temporal después de un evento de desastre, que contienen copias de seguridad de datos, sistemas y otras infraestructuras tecnológicas.
+
