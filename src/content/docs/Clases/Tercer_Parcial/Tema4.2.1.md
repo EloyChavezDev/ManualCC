@@ -14,29 +14,41 @@ description: Preguntas
 1. **¿Cuál de los siguientes NO es un tipo de auditoría mencionado en la información proporcionada?**
 
 a) Auditoría Interna.
+
 b) Auditoría de Seguridad.
+
 c) Auditoría Financiera.
+
 d) Auditoría Operacional.
 
 2. **¿Cuál de las siguientes funciones NO es una responsabilidad de los comités de sistemas de información?**
 
 a) Desarrollar y mantener la arquitectura de TI.
+
 b) Alinear las estrategias de TI con los objetivos de negocio.
+
 c) Evaluar y seleccionar tecnologías y proveedores.
+
 d) Supervisar la implementación de proyectos de sistemas de información.
 
 3. **¿Cuál de las siguientes NO es una amenaza externa a la organización?**
 
 a) Ciberataques como el phishing.
+
 b) Regulaciones y leyes internacionales.
+
 c) Errores humanos accidentales.
+
 d) Desastres naturales como terremotos e inundaciones.
 
 4. **¿Cuál de los siguientes NO es un elemento del control interno mencionado en la información proporcionada?**
 
 a) Ambiente de control.
+
 b) Evaluación de riesgos.
+
 c) Revisión de presupuesto.
+
 d) Información y comunicación.
 
 ## Preguntas de correspondencia:
