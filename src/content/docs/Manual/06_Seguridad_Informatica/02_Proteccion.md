@@ -22,7 +22,7 @@ Malware o software malintencionado, es un término general que se refiere a los 
 
 Un ataque de denegación de servicio distribuido (DDoS) implica varios sistemas informáticos comprometidos que atacan a un objetivo, como un servidor, un sitio web u otro recurso de red, para provocar una denegación de servicio a los usuarios del recurso de destino. El gran volumen de mensajes entrantes, solicitudes de conexión o paquetes mal formados que se envía al sistema de destino lo obliga a ralentizarse o bloquearse, con lo que el servicio deja de estar disponible para los usuarios o sistemas legítimos.
 
-[Malware](https://manualcc.eloychavez.dev/malware.jpg)
+[ATAQUES CIBERNETICOS] (https://manualcc.eloychavez.dev/malware.jpg)
 
 
 **Phishing**
@@ -45,7 +45,7 @@ XSS permite a un atacante robar cookies de sesión, para que el atacante se haga
 
 Una botnet está formada por un conjunto de equipos y dispositivos conectados a Internet que están infectados y controlados de forma remota por los ciberdelincuentes. A menudo se utilizan para enviar correo no deseado, participar en campañas de fraude de clics y generar tráfico malintencionado para ataques DDoS. El objetivo de crear una botnet es infectar tantos dispositivos conectados como sea posible y utilizar la potencia informática y los recursos de esos dispositivos para automatizar y amplificar las actividades maliciosas. Gracias al crecimiento del Internet de las cosas, las amenazas de botnets son una de las categorías de amenazas de más rápido crecimiento.
 
-[ataques](https://manualcc.eloychavez.dev/ataque.webp)
+[ATAQUES CIBERNETICOS] (https://manualcc.eloychavez.dev/ataque.webp)
 
 
 ### Protección contra un ataque 
@@ -84,7 +84,8 @@ Es probable que deba notificar a los clientes, en especial si el ataque ha afect
 
 Después del ataque, es importante realizar una investigación y determinar cómo cambiar sus sistemas y procedimientos para reducir al mínimo el riesgo de futuros ataques. Utilice el incidente para mejorar la seguridad cibernética de su empresa.
 
-[proteccion](https://manualcc.eloychavez.dev/proteccion.jpg)
+[PROTECCION CONTRA UN ATAQUE] (https://manualcc.eloychavez.dev/proteccion.jpg)
+
 ### Prevencion de ataques cibernéticos
 
 **Cifrar y hacer copias de seguridad de los datos**
@@ -118,3 +119,5 @@ Asegúrese de que se implemente y se siga una directiva de contraseñas adecuada
 **Garantizar la protección de los endpoints**
 
 La seguridad de los endpoints es el proceso de proteger dispositivos como equipos de escritorio, portátiles, teléfonos móviles y tabletas contra amenazas malintencionadas y ciberataques. El software de seguridad para endpoints permite a las empresas proteger frente a amenazas cibernéticas los dispositivos que los empleados usan para trabajar, ya sea en una red o en la nube. Puede obtener más información sobre la seguridad y la protección de endpoints aquí.
+
+[PREVENCION DE ATAQUES] (https://manualcc.eloychavez.dev/prevencion.png)
